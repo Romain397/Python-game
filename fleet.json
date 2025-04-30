@@ -1,0 +1,65 @@
+{
+  "_Fleet__name": "Galactica",
+  "_Fleet__spaceships": [
+    {
+      "_Spaceship__condition": "op\u00e9rationnel",
+      "_Spaceship__crew": [
+        {
+          "_Member__age": 36,
+          "_Member__first_name": "Novi",
+          "_Member__gender": "femme",
+          "_Member__last_name": "Sura",
+          "_Operator__experience": 0,
+          "_Operator__role": "pilote"
+        },
+        {
+          "_Member__age": 22,
+          "_Member__first_name": "Limmar",
+          "_Member__gender": "homme",
+          "_Member__last_name": "Ponyets",
+          "_Operator__experience": 0,
+          "_Operator__role": "technicien"
+        },
+        {
+          "_Member__age": 30,
+          "_Member__first_name": "Bayta",
+          "_Member__gender": "femme",
+          "_Member__last_name": "Darell",
+          "_Mentalist__mana": 0
+        }
+      ],
+      "_Spaceship__name": "Alpha",
+      "_Spaceship__ship_type": "guere"
+    },
+    {
+      "_Spaceship__condition": "op\u00e9rationnel",
+      "_Spaceship__crew": [
+        {
+          "_Member__age": 36,
+          "_Member__first_name": "Novi",
+          "_Member__gender": "femme",
+          "_Member__last_name": "Sura",
+          "_Operator__experience": 0,
+          "_Operator__role": "pilote"
+        },
+        {
+          "_Member__age": 22,
+          "_Member__first_name": "Limmar",
+          "_Member__gender": "homme",
+          "_Member__last_name": "Ponyets",
+          "_Operator__experience": 0,
+          "_Operator__role": "technicien"
+        },
+        {
+          "_Member__age": 30,
+          "_Member__first_name": "Bayta",
+          "_Member__gender": "femme",
+          "_Member__last_name": "Darell",
+          "_Mentalist__mana": 0
+        }
+      ],
+      "_Spaceship__name": "Beta",
+      "_Spaceship__ship_type": "transport"
+    }
+  ]
+}
